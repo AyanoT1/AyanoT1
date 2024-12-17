@@ -2,7 +2,7 @@
 
 <pre>
 🏫 I'm studying Computer Science Engineering at Universidad de Chile
-🔍 My areas of interest: Robotics • Automation • Web Development • IoT
+🔍 My areas of interest: FullStack development  • Robotics • Automation • IoT
 🧪 I'm experimenting with React ⚛️ and Tailwind 🍃
 ☕ Avid tea drinker • Rhythm game enthusiast • Cat lover
 </pre>
