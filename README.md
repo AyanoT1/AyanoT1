@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=2000&pause=600&color=95A96A&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Oh+hi!+%E3%83%BE(%EF%BC%BE%E2%88%87%EF%BC%BE);I'm+Sergio+Romero%2C+CS+%26+Engineering+student;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=2000&pause=600&color=C9EDDC&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Oh+hi!+%E3%83%BE(%EF%BC%BE%E2%88%87%EF%BC%BE);I'm+Sergio+Romero%2C+CS+%26+Engineering+student;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <pre>
 🏫 I'm studying Computer Science Engineering at Universidad de Chile
