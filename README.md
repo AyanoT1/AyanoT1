@@ -2,10 +2,10 @@
 
 <pre>
 🏫 I'm studying Computer Science Engineering at Universidad de Chile
-🔍 My areas of interest: FullStack Development  • Cybersecurity • Functional Programming • IoT
+🔍 My areas of interest: Cybersecurity • Ethical Hacking • FullStack Development
 🛠️ I have experience in Frontend Development with React + TypeScript
-🧪 I'm experimenting with AWS and Golang!
-☕ Avid tea drinker • Rhythm game enthusiast • Cat lover
+🔭 I'm looking into learning SvelteKit and Zig!
+☕ Avid tea drinker • 🎵 Rhythm game enthusiast • 🐱 Cat lover • 🌱 Vegetarian
 </pre>
 
 ### 🧰 My toolbox
@@ -17,12 +17,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Racket](https://img.shields.io/badge/Racket-9F1D20?style=flat&logo=racket&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 <hr>
 
