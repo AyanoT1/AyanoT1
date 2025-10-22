@@ -2,9 +2,9 @@
 
 <pre>
 🏫 I'm studying Computer Science Engineering at Universidad de Chile
-🔍 My areas of interest: Cybersecurity • Ethical Hacking • FullStack Development
-🛠️ I have experience in Frontend Development with React + TypeScript
-🔭 I'm looking into learning SvelteKit and Zig!
+🔍 My areas of interest: FullStack Development  • Programming Languages
+🛠️ I have experience in mantaining business software
+🔭 Looking forward to get into new challenges
 ☕ Avid tea drinker • 🎵 Rhythm game enthusiast • 🐱 Cat lover • 🌱 Vegetarian
 </pre>
 
