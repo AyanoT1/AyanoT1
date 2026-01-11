@@ -2,9 +2,8 @@
 
 <pre>
 🏫 I'm studying Computer Science Engineering at Universidad de Chile
-🔍 My areas of interest: FullStack Development  • Programming Languages
-🛠️ I have experience in mantaining business software
-🔭 Looking forward to get into new challenges
+🏢 I'm working as an Assistant Programmer
+🛠️ I have work experience with React - (Java 8) Spring - NestJS
 ☕ Avid tea drinker • 🎵 Rhythm game enthusiast • 🐱 Cat lover • 🌱 Vegetarian
 </pre>
 
